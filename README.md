@@ -95,8 +95,7 @@ Modern software teams need to explore tools quickly, test AI capabilities, docum
 
 ## Project Status
 
-Currently in planning and setup stage.
-
+Currently in fronend development status
 ## Roadmap
 
 - [ ] Create project structure
