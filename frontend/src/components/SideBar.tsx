@@ -18,8 +18,8 @@ function Sidebar() {
             className={({ isActive }) =>
               `block rounded-lg px-4 py-3 text-sm font-medium transition ${
                 isActive
-                  ? "bg-blue-600 text-white"
-                  : "text-slate-300 hover:bg-slate-800 hover:text-white"
+                  ? "bg-violet-600 text-white"
+                  : "text-slate-300 hover:bg-violet-400 hover:text-white"
               }`
             }
           >

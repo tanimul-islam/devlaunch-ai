@@ -4,13 +4,13 @@ import Header from "./Header";
 
 function AppLayout() {
   return (
-    <div className="min-h-screen bg-white min-w-screen">
+    <div className="min-h-screen w-full bg-white">
       <Sidebar />
 
-      <div className="lg:pl-72">
+      <div className="min-h-screen lg:pl-72">
         <Header />
 
-        <main className="min-h-screen px-6 py-8 text-white">
+        <main className="min-h-screen px-6 py-8">
           <Outlet />
         </main>
       </div>
